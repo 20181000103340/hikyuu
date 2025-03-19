@@ -1,0 +1,17 @@
+---CLINE_RULES_START---
+[LAST_ACTION_STATE]
+last_action: "Initial Setup Completed"
+current_phase: "Set-up/Maintenance"
+next_action: "Install dependency_processor"
+next_phase: "Set-up/Maintenance"
+
+[CODE_ROOT_DIRECTORIES]
+- hikyuu
+- hikyuu_cpp
+- hikyuu_pywrap
+- test_data
+
+[LEARNING_JOURNAL]
+- Initial setup completed on March 19, 2025.
+- Identified code roots: hikyuu, hikyuu_cpp, hikyuu_pywrap, test_data based on project structure.
+---CLINE_RULES_END---
